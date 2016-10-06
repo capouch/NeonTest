@@ -3,7 +3,7 @@ package net.palaver.brianc.neontest;
 public class NeonTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hellow Orld!!  I am running in Neon");
 
 	}
 
